@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zakat Input</string>
+    <string name="copyright">Copyright © 2021 Nurul.Anis</string>
+    <string name="about_text">AppZakat is the mobile application that was used to estimating zakat payment for gold keeping.
+                              This application was develop by students from UiTM Perlis.
+                              The students involved are Anis binti Roslan and Nurul Farhana Asyiqin binti Mohd Jamli. </string>
+    <string name="about_app">WHAT IS ZAKAT?</string>
+    <string name="about_zkt">Zakat is a form of obligatory charity that has the potential to ease the suffering of millions.
+                             With the literal meaning of the word being ‘to cleanse,’ Muslims believe that paying zakat purifies,
+                             increases and blesses the remainder of their wealth.</string>
+    <string name="more_info">If you want to know more about Zakat, you can click on the button below. Thank you</string>
+    <string name="button">MORE INFO</string>
+
+
+    <string name="link_code">Here are our source code. Thank you</string>
+</resources>

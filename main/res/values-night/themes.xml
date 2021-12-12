@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ZakatInput" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#32FAE7</item>
+        <item name="colorPrimaryVariant">#26D2E8</item>
+        <item name="colorOnPrimary">#32FAE7</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF018786</item>
+        <item name="colorSecondaryVariant">#68EEFF</item>
+        <item name="colorOnSecondary">#FF018786</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
